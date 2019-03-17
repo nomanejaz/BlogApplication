@@ -1,0 +1,82 @@
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.deps.json
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.json
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.dev.json
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cache
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cs
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfoInputs.cache
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfo.cs
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Source\Repos\CorApplication\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.deps.json
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.json
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.dev.json
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfoInputs.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\Blog\Blog\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CopyComplete
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.deps.json
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.json
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.dev.json
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfoInputs.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CopyComplete
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Desktop\Blog\Blog3\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.dll
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.deps.json
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.json
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.dev.json
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csprojAssemblyReference.cache
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CoreCompileInputs.cache
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cache
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cs
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfoInputs.cache
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfo.cs
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CopyComplete
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\w.alshinawi\Downloads\Blog6\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.deps.json
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.json
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.runtimeconfig.dev.json
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\CorApplication.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\bin\Debug\netcoreapp2.2\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorAssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfoInputs.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.AssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.RazorTargetAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.csproj.CopyComplete
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\CorApplication\obj\Debug\netcoreapp2.2\CorApplication.pdb

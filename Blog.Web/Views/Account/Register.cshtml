@@ -1,0 +1,38 @@
+﻿@model Blog.DTO.RegisterModel
+
+@{
+    ViewBag.Title = "Register";
+}
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+<link href="~/Content/login.css" rel="stylesheet" />
+
+<div class="login">
+    <div class="login-triangle"></div>
+
+    <h2 class="login-header">Register</h2>
+
+    @using (Html.BeginForm("Register", "Account",
+            null,
+            FormMethod.Post, new { @class = "login-container" }))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <p>@Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", placeholder = "Username" } })</p>
+        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+
+        <p>@Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", placeholder = "Email" } })</p>
+        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+        <p>@Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control", placeholder = "Password" } })</p>
+        @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+
+        <p><input type="submit" value="Submit"></p>
+
+    }
+</div>

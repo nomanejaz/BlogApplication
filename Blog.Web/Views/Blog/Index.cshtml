@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Blog.DTO.UserBlogDTO>
+@using Blog.Web.Helpers
+@{
+    ViewBag.Title = "Blogs";
+}
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" />
+
+<h2>
+    Blogs
+    @if (User.Identity.IsAuthenticated)
+    {
+        @Html.ActionLink("Create", "Create", "Blog", new { @class = "btn btn-primary pull-right" })
+    }
+</h2>
+<div class="container">
+    @foreach (var item in Model)
+    {
+        <div class="well">
+            <div class="media">
+                <div class="media-body">
+                    <h4 class="media-heading">
+                        @item.Title
+                        @Html.ActionLink("View", "View", "Blog", new { id = item.Id }, new { @class = "btn btn-default pull-right" })
+                        @if (SecurityHelper.HasRole("Admin") || SecurityHelper.GetUserId() == item.AuthorId)
+                        {
+                            @Html.ActionLink("Delete", "Delete", "Blog", new { id = item.Id }, new { @class = "btn btn-danger pull-right" })
+                        }
+                    </h4>
+                    <h5 class="media-heading">@item.Author.UserName</h5>
+                    @*<p>
+                            @item.Content
+                        </p>*@
+                    <ul class="list-inline list-unstyled">
+                        <li><span><i class="glyphicon glyphicon-calendar"></i>@item.PublishDate.ToShortDateString()</span></li>
+                        <li>|</li>
+                        <span><i class="glyphicon glyphicon-comment"></i> @item.CommentCount comments</span>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    }
+</div>
