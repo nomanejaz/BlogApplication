@@ -29,3 +29,11 @@ C:\Users\w.alshinawi\Downloads\Blog6\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.W
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.pdb
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.csproj.CopyComplete
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.WebCore\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.g.cshtml.cs
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.RazorAssemblyInfo.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.RazorAssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.AssemblyInfoInputs.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.AssemblyInfo.cs
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.WebCore\obj\Debug\netcoreapp2.2\Blog.WebCore.pdb

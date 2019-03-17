@@ -182,3 +182,5 @@ C:\Users\n.ejaz\Desktop\Blog\Blog\Blog.Api\bin\System.Security.Cryptography.X509
 C:\Users\n.ejaz\Desktop\Blog\Blog\Blog.Api\bin\EntityFramework.dll
 C:\Users\n.ejaz\Desktop\Blog\Blog\Blog.Api\bin\Blog.Entity.dll.config
 C:\Users\n.ejaz\Desktop\Blog\Blog\Blog.Api\bin\EntityFramework.xml
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Api\obj\Debug\Blog.Api.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Api\obj\Debug\Blog.Api.csproj.CoreCompileInputs.cache
