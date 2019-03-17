@@ -19,7 +19,13 @@ namespace CorApplication.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-          
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Role>(options =>
+            {
+                options.HasData(
+                  new Role { Id = 1, RoleName = "Admin" }, new Role { Id = 2, RoleName = "User"  }
+            );
+            });
         }
 
         public DbSet<User> Users { get; set; }
