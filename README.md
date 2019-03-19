@@ -27,3 +27,10 @@ Note:
 
 
 
+UPDATES:
+
+
+a. The deletion was handled but unfortunately, I placed the condition wrongly (forgot !).
+b. If the blog is deleted and any other user tries to access it, I redirect him to 404 Page.
+c. On logout, I delete the cookie to handle and for any request, I am using the token from cookie to authenticate and authorize.
+d. I also have implemented SignalR so whenever someone creates a blog, all other users get a notification. (simple implementation).
