@@ -367,6 +367,127 @@ C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\obj\Debug\Blog.Web.csproj.CoreComp
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\obj\Debug\Blog.Web.csproj.CopyComplete
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\obj\Debug\Blog.Web.dll
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\obj\Debug\Blog.Web.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.Owin.dll
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Owin.dll
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.Owin.xml
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Blog.Web.dll.config
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Blog.Web.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Blog.Web.pdb
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\csc.exe
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\csc.exe.config
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\csc.rsp
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\csi.exe
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\csi.exe.config
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\csi.rsp
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.AppContext.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Console.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\vbc.exe
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\vbc.exe.config
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\vbc.rsp
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Antlr3.Runtime.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Owin.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Newtonsoft.Json.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Owin.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.IO.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Net.Http.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Runtime.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Helpers.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Http.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Mvc.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Optimization.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Razor.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.WebPages.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\WebGrease.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Owin.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Http.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Helpers.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Mvc.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Optimization.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.Razor.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.WebPages.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Newtonsoft.Json.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Antlr3.Runtime.pdb
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\obj\Debug\Blog.Web.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\obj\Debug\Blog.Web.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\obj\Debug\Blog.Web.csproj.CopyComplete
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\obj\Debug\Blog.Web.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.Web\obj\Debug\Blog.Web.pdb
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Blog.Web.dll.config
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Blog.Web.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Blog.Web.pdb
@@ -418,10 +539,16 @@ C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\roslyn\VBCSCompiler.exe
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Antlr3.Runtime.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Owin.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Owin.Security.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Newtonsoft.Json.dll
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Owin.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Diagnostics.DiagnosticSource.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.IO.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Net.Http.dll
@@ -443,6 +570,13 @@ C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Web.WebPages.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Web.WebPages.Razor.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\WebGrease.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Owin.xml
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\Microsoft.Owin.Security.xml
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Net.Http.Formatting.xml
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Web.Http.xml
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.Web\bin\System.Web.Helpers.xml

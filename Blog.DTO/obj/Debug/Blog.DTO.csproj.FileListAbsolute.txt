@@ -11,13 +11,19 @@ C:\Users\n.ejaz\Desktop\Blog\Blog3\Blog.DTO\obj\Debug\Blog.DTO.pdb
 C:\Users\n.ejaz\Desktop\Blog\Blog3\Blog.DTO\obj\Debug\Blog.DTO.csprojAssemblyReference.cache
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\bin\Debug\Blog.DTO.dll
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\bin\Debug\Blog.DTO.pdb
-C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\obj\Debug\Blog.DTO.csprojAssemblyReference.cache
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\obj\Debug\Blog.DTO.csproj.CoreCompileInputs.cache
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\obj\Debug\Blog.DTO.dll
 C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\obj\Debug\Blog.DTO.pdb
+C:\Users\w.alshinawi\Downloads\Blog6\Blog.DTO\obj\Debug\Blog.DTO.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.DTO\bin\Debug\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.DTO\bin\Debug\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.DTO\obj\Debug\Blog.DTO.csprojAssemblyReference.cache
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.DTO\obj\Debug\Blog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.DTO\obj\Debug\Blog.DTO.dll
+C:\Users\n.ejaz\Desktop\New folder\Blog not found page\Blog.DTO\obj\Debug\Blog.DTO.pdb
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\bin\Debug\Blog.DTO.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\bin\Debug\Blog.DTO.pdb
+C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\obj\Debug\Blog.DTO.csprojAssemblyReference.cache
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\obj\Debug\Blog.DTO.csproj.CoreCompileInputs.cache
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\obj\Debug\Blog.DTO.dll
 C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\obj\Debug\Blog.DTO.pdb
-C:\Users\n.ejaz\Desktop\NewBlog\blog auth\Blog.DTO\obj\Debug\Blog.DTO.csprojAssemblyReference.cache

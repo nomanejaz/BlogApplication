@@ -64,6 +64,11 @@ namespace Blog.Web.Helpers
                 HttpContext.Current.Response.Redirect("~/Account/Login");
             }
 
+            if (Response.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                HttpContext.Current.Response.Redirect("~/Home/NotFound");
+            }
+
             if (Response.IsSuccessStatusCode)
             {
                 return await Response.Content.ReadAsAsync<T>();
@@ -83,6 +88,11 @@ namespace Blog.Web.Helpers
                 HttpContext.Current.Response.Redirect("~/Account/Login");
             }
 
+            if (Response.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                HttpContext.Current.Response.Redirect("~/Home/NotFound");
+            }
+
             if (Response.IsSuccessStatusCode)
             {
                 return await Response.Content.ReadAsAsync<T>();
@@ -100,6 +110,11 @@ namespace Blog.Web.Helpers
             if (Response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
             {
                 HttpContext.Current.Response.Redirect("~/Account/Login");
+            }
+
+            if (Response.StatusCode == System.Net.HttpStatusCode.NotFound)
+            {
+                HttpContext.Current.Response.Redirect("~/Home/NotFound");
             }
 
             if (Response.IsSuccessStatusCode)

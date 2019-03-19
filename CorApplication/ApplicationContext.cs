@@ -23,7 +23,7 @@ namespace CorApplication.Models
             modelBuilder.Entity<Role>(options =>
             {
                 options.HasData(
-                  new Role { Id = 1, RoleName = "Admin" }, new Role { Id = 2, RoleName = "User"  }
+                  new Role { Id = 1, RoleName = "Admin" }, new Role { Id = 2, RoleName = "User" }
             );
             });
         }

@@ -4,12 +4,12 @@ using System.Web.Mvc;
 using Blog.DTO;
 using Blog.Web.Helpers;
 using Blog.Web.Models;
+using Microsoft.AspNet.SignalR;
 
 namespace Blog.Web.Controllers
 {
     public class BlogController : Controller
     {
-        // GET: Blog
         public async Task<ActionResult> Index()
         {
             using (var apiCaller = new ApiCaller())
@@ -54,6 +54,8 @@ namespace Blog.Web.Controllers
 
                 if (result)
                 {
+                    var notificationHub = GlobalHost.ConnectionManager.GetHubContext<NotificationHub>();
+                    notificationHub.Clients.All.addNotification($"New Blog: {model.Title}");
                     return RedirectToAction("index");
                 }
             }

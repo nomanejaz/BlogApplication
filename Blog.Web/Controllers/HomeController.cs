@@ -20,6 +20,11 @@ namespace Blog.Web.Controllers
             return View();
         }
 
+        public ActionResult NotFound()
+        {
+            return View();
+        }
+
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";

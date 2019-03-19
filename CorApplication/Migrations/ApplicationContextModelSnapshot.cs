@@ -53,18 +53,6 @@ namespace CorApplication.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Roles");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            RoleName = "Admin"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            RoleName = "User"
-                        });
                 });
 
             modelBuilder.Entity("Blog.Entity.Models.User", b =>

@@ -4,43 +4,22 @@
     ViewBag.Title = "View";
 }
 
-<div>
-    <h4>@Model.Title</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Title)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Content)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Content)
-        </dd>
-
-        <dt>
-            Publish Date
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.PublishDate)
-        </dd>
-
-    </dl>
+<div class="row">
+    <div class="jumbotron m-t-10">
+        <h1 class="display-4">@Model.Title</h1>
+        <p class="lead">@Model.PublishDate</p>
+        <hr class="my-4">
+        <p>@Model.Content</p>
+    </div>
 </div>
+
 <p>
     @Html.ActionLink("Back to List", "Index")
 </p>
 
 @if (User.Identity.IsAuthenticated)
 {
-    <div class="row">
+    <div class="">
 
         @using (Html.BeginForm("CreateComment", "Blog", FormMethod.Post))
         {
@@ -52,11 +31,11 @@
 
                 <div class="form-group">
                     <label for="comment">Add Comment</label>
-                    <textarea required class="form-control" rows="5" id="Comment" name="Comment"></textarea>
+                    <textarea required class="form-control" style="min-width: 100%" rows="5" id="Comment" name="Comment"></textarea>
                 </div>
 
                 <div class="form-group">
-                    <div class="col-md-offset-2 col-md-10">
+                    <div class="pull-right">
                         <input type="submit" value="Create" class="btn btn-success" />
                     </div>
                 </div>
@@ -65,7 +44,7 @@
     </div>
 }
 
-<h2>Comments</h2>
+<h3>Comments</h3>
 @foreach (var comment in Model.BlogComments)
 {
     <div class="well">
@@ -73,9 +52,6 @@
             <div class="media-body">
                 <h4 class="media-heading">@comment.Comment</h4>
                 <h5 class="media-heading">@comment.PostBy.UserName</h5>
-                @*<p>
-                        @item.Content
-                    </p>*@
                 <ul class="list-inline list-unstyled">
                     <li><span><i class="glyphicon glyphicon-calendar"></i>@comment.CommentPostDate.ToShortDateString()</span></li>
                 </ul>

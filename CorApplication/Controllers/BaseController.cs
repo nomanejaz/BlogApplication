@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using CorApplication.Models;
 using CorApplication.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -10,7 +8,7 @@ using Microsoft.Extensions.Configuration;
 
 namespace CorApplication.Controllers
 {
-    public class BaseController: Controller
+    public class BaseController : Controller
     {
         protected ApplicationContext db;
         public BaseController(IConfiguration configuration)
@@ -56,6 +54,13 @@ namespace CorApplication.Controllers
 
                 return false;
             }
+        }
+
+        protected string GetToken()
+        {
+            var token = Request.Headers["Authorization"];
+            var userToken = token[0].Split(' ').Last();
+            return userToken;
         }
     }
 }

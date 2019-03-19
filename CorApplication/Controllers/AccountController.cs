@@ -3,23 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using Blog.DTO;
 using Blog.Entity.Models;
-using CorApplication.Models;
 using CorApplication.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace CorApplication.Controllers
 {
     [Route("api/[controller]")]
-    public class AccountController : Controller
+    public class AccountController : BaseController
     {
-        ApplicationContext db;
         public AccountController(IConfiguration configuration)
+            : base(configuration)
         {
-            db = ConnectionFactory.CreateContext(configuration);
         }
 
         [HttpPost]
@@ -82,21 +77,48 @@ namespace CorApplication.Controllers
         [Route("Delete/{id}")]
         public ActionResult<bool> Delete(string id)
         {
+            if (!ValidateRequest(1))
+            {
+                return Unauthorized();
+            }
+
             var user = db.Users.FirstOrDefault(b => b.Id == id);
+
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            var blogs = db.UserBlogs.Where(b => b.AuthorId == id);
+            var comments = db.BlogComments.Where(c => c.PostById == id);
+            var roles = db.UserRoles.Where(r => r.UserId == id);
+
+            db.UserRoles.RemoveRange(roles);
+            db.BlogComments.RemoveRange(comments);
+            db.UserBlogs.RemoveRange(blogs);
+
+            db.SaveChanges();
+
+            db.Users.Remove(user);
+            db.SaveChanges();
+
+            return Ok(true);
+        }
+
+        [HttpGet]
+        [Route("LogOff")]
+        public ActionResult<bool> LogOff()
+        {
+            if (!ValidateRequest())
+            {
+                return Unauthorized();
+            }
+
+            var user = db.Users.FirstOrDefault(b => b.Token == GetToken());
 
             if (user != null)
             {
-                var blogs = db.UserBlogs.Where(b => b.AuthorId == id);
-                var comments = db.BlogComments.Where(c => c.PostById == id);
-                var roles = db.UserRoles.Where(r => r.UserId == id);
-
-                db.UserRoles.RemoveRange(roles);
-                db.BlogComments.RemoveRange(comments);
-                db.UserBlogs.RemoveRange(blogs);
-
-                db.SaveChanges();
-
-                db.Users.Remove(user);
+                user.Token = "";
                 db.SaveChanges();
             }
 
@@ -107,17 +129,24 @@ namespace CorApplication.Controllers
         [Route("MakeAdmin/{id}")]
         public ActionResult<bool> MakeAdmin(string id)
         {
+            if (!ValidateRequest(1))
+            {
+                return Unauthorized();
+            }
+
             var user = db.Users.FirstOrDefault(b => b.Id == id);
 
-            if (user != null)
+            if (user == null)
             {
-                user.UserRole.Add(new UserRole
-                {
-                    RoleId = 1
-                });
-
-                db.SaveChanges();
+                return NotFound();
             }
+
+            user.UserRole.Add(new UserRole
+            {
+                RoleId = 1
+            });
+
+            db.SaveChanges();
 
             return Ok(true);
         }

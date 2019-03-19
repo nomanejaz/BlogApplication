@@ -3,13 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using Blog.DTO;
 using Blog.Entity.Models;
-using CorApplication.Models;
-using CorApplication.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace CorApplication.Controllers
 {
@@ -51,7 +47,12 @@ namespace CorApplication.Controllers
         [Route("Get/{id}")]
         public ActionResult<IEnumerable<UserBlog>> Get(int id)
         {
-            var blog = db.UserBlogs.Include("Author"). Include("BlogComments").Include("BlogComments.PostBy").FirstOrDefault(b => b.Id == id);
+            var blog = db.UserBlogs.Include("Author").Include("BlogComments").Include("BlogComments.PostBy").FirstOrDefault(b => b.Id == id);
+
+            if (blog == null)
+            {
+                return NotFound();
+            }
 
             return Ok(new UserBlogDTO
             {
@@ -87,11 +88,18 @@ namespace CorApplication.Controllers
 
             var blog = db.UserBlogs.FirstOrDefault(b => b.Id == id);
 
-            if (blog != null)
+            if (blog == null)
             {
-                db.UserBlogs.Remove(blog);
-                db.SaveChanges();
+                return NotFound();
             }
+
+            if (!ValidateRequest(1) && !ValidateRequest(null, blog.AuthorId))
+            {
+                return Unauthorized();
+            }
+
+            db.UserBlogs.Remove(blog);
+            db.SaveChanges();
 
             return Ok(true);
         }
@@ -104,6 +112,7 @@ namespace CorApplication.Controllers
             {
                 return Unauthorized();
             }
+
             db.UserBlogs.Add(new UserBlog
             {
                 AuthorId = input.UserId,
@@ -117,7 +126,6 @@ namespace CorApplication.Controllers
             return Ok(true);
         }
 
-
         [HttpPost]
         [Route("CreateComment")]
         public ActionResult<bool> CreateComment([FromBody]BlogCommentInput input)
@@ -126,19 +134,22 @@ namespace CorApplication.Controllers
             {
                 return Unauthorized();
             }
+
             var blog = db.UserBlogs.FirstOrDefault(b => b.Id == input.Id);
 
-            if (blog != null)
+            if (blog == null)
             {
-                blog.BlogComments.Add(new BlogComment
-                {
-                    Comment = input.Comment,
-                    CommentPostDate = DateTime.Now,
-                    PostById = input.UserId
-                });
-
-                db.SaveChanges();
+                return NotFound();
             }
+
+            blog.BlogComments.Add(new BlogComment
+            {
+                Comment = input.Comment,
+                CommentPostDate = DateTime.Now,
+                PostById = input.UserId
+            });
+
+            db.SaveChanges();
 
             return Ok(true);
         }

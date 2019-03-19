@@ -116,8 +116,13 @@ namespace Blog.Web.Controllers
             return View(model);
         }
 
-        public ActionResult LogOff()
+        public async Task<ActionResult> LogOff()
         {
+            using (var apiCaller = new ApiCaller())
+            {
+                var result = await apiCaller.GetAsync<bool>("LogOff", "Account");
+            }
+
             FormsAuthentication.SignOut();
             HttpCookie myCookie = new HttpCookie("user")
             {
