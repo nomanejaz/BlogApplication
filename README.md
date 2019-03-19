@@ -24,3 +24,6 @@ Note:
 
 1.	Change the Connection String in "appsettings.json" in CorApplication and Execute Update-Database command for Database Creation.
 2.	Both CorApplication(Web APIs) and Blog.Web are using Local IIS and not IIS Express.
+
+
+
